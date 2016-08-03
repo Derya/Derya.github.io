@@ -1,10 +1,1 @@
-# [My Page](http://profile.aydede.org)
-
-## subtitle 1
-- point
-- point
-- point
-
-
-## subtitle 2
-saosgjasf 
+This is my personal site. Template built by the wonderful AJ of html5up.net
